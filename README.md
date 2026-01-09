@@ -1,5 +1,9 @@
 # SpringBoot Java Template
 
+[//]: # This is the template for java spring --- My clone to optimize for personal use()
+
+[//]: # I'm keep licence in this source
+
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgeminikims)](https://twitter.com/geminikims)
 [![Youtube](https://img.shields.io/youtube/channel/views/UCDh8zEDofOcrOMAOnSVL9Tg?label=Youtube&style=social)](https://www.youtube.com/@geminikims)
 [![CI](https://github.com/team-dodn/spring-boot-java-template/actions/workflows/ci.yml/badge.svg)](https://github.com/team-dodn/spring-boot-java-template/actions/workflows/ci.yml)
